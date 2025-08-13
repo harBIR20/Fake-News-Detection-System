@@ -70,15 +70,15 @@ These results demonstrate that the models are highly effective in distinguishing
 - Python 3.8+
 - pip (Python package manager)
 - 
-### Steps
-# Clone the repository
+## Steps
+## Clone the repository
 git clone https://github.com/your-username/fake-news-detection.git
 cd fake-news-detection
 
-# Install dependencies
+## Install dependencies
 pip install -r requirements.txt
 
-# Run the project
+## Run the project
 python main.py
 
 ## 🛠 Technologies Used:
